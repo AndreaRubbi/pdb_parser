@@ -1,4 +1,4 @@
-name: Python application
+name: pdb_parser
 
 on: [push]
 
