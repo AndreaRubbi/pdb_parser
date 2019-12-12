@@ -1,9 +1,9 @@
 # pdb_parser by: Andrea Rubbi
 Python program that can identify the residues interacting between chains of a complex protein. 
 
-This is a very basic program that needs as input a pdb file of inerest.
+This is a very basic program that needs as input a pdb file of interest.
 The goal of this program is to analyse the coordinates of residues in differnt 
-chains to find out which of the actually interact.
+chains to find out which of them actually interact.
 Beeing part of a bigger project born to analyse the Hemoglobin complex,
 it has an additional feature that allows to analyse also the interactions
 with the Heme and Oxy groups.
@@ -14,7 +14,7 @@ Ex $ ./pdb_parser pdb_file.pdb
 Then it will ask you to select the firts chain and then its kind.
 Just try it and you will see how easy is its functionality.
 
-After that it will also ask for the second chain, the procedure it's the same as before.
+After that it will also ask for the second chain, the procedure is the same as before.
 
 It will then print a table whith all the interacting atoms of the interacting residues of 
 both chains.
