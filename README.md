@@ -9,7 +9,7 @@ it has an additional feature that allows to analyze also the interactions
 with the Heme and Oxy groups.
 
 Its usage is simple: run the program with the pdb file as input:
-Ex $ ./pdb_parser pdb_file.pdb
+Ex $ ./pdb_parser.py pdb_file.pdb
 
 Then it will ask you to select the firts chain and then its kind.
 Just try it and you will see how easy is its functionality.
