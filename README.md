@@ -2,10 +2,10 @@
 Python program that can identify the residues interacting between chains of a complex protein. 
 
 This is a very basic program that needs as input a pdb file of interest.
-The goal of this program is to analyse the coordinates of residues in differnt 
+The goal of this program is to analyze the coordinates of residues in differnt 
 chains to find out which of them actually interact.
-Beeing part of a bigger project born to analyse the Hemoglobin complex,
-it has an additional feature that allows to analyse also the interactions
+Beeing part of a bigger project born to analyze the Hemoglobin complex,
+it has an additional feature that allows to analyze also the interactions
 with the Heme and Oxy groups.
 
 Its usage is simple: run the program with the pdb file as input:
@@ -22,10 +22,11 @@ both chains.
 The printing format is quite nice as it's done using pandas.
 The table is saved as Interactions_csv/Chain_Inter + chain1 + chain2 .csv
 
-requirements:
+## Requirements:
+
  -- numpy --> python3 -m pip install numpy
  -- pandas --> python3 -m pip install pandas
  
- If you have any doubt or suggestion feel free to contact me.
+
  
 
