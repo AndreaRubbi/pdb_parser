@@ -24,7 +24,7 @@ The table is saved as Interactions_csv/Chain_Inter + chain1 + chain2 .csv
 
 ## Requirements:
 
- -- numpy --> python3 -m pip install numpy <\br>
+ -- numpy --> python3 -m pip install numpy 
  -- pandas --> python3 -m pip install pandas
  
 
