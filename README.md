@@ -29,4 +29,3 @@ The table is saved as Interactions_csv/Chain_Inter + chain1 + chain2 .csv
  
 
  
-
